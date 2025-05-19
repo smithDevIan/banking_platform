@@ -13,7 +13,7 @@
   3. Create three databases: bank_customer, bank_account, bank_card 
 3. Apache Kafka Connection
   1. Install and run Zookeeper
-  2. Intall and run apache kafka
+  2. Install and run apache kafka
 # Run the Microservices
 1. Build the project using maven(mvn clean install).
 2. Access the microservices:
